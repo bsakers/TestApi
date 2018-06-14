@@ -12662,23 +12662,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kevinh\\.nuget\\packages\\": {},
+    "C:\\Users\\bakers\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevinh\\source\\repos\\TestApi\\TestApi\\TestApi.csproj",
+      "projectUniqueName": "C:\\Users\\bakers\\source\\repos\\TestApi\\TestApi\\TestApi.csproj",
       "projectName": "TestApi",
-      "projectPath": "C:\\Users\\kevinh\\source\\repos\\TestApi\\TestApi\\TestApi.csproj",
-      "packagesPath": "C:\\Users\\kevinh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevinh\\source\\repos\\TestApi\\TestApi\\obj\\",
+      "projectPath": "C:\\Users\\bakers\\source\\repos\\TestApi\\TestApi\\TestApi.csproj",
+      "packagesPath": "C:\\Users\\bakers\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bakers\\source\\repos\\TestApi\\TestApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kevinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bakers\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
